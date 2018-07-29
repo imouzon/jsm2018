@@ -19,6 +19,7 @@ h1, h2, h3, h4 {
 .remark-slide-content h5 { font-size: 1.3em; }
 
 .footnote {
+   text-align: right;
    position: absolute;
    bottom: 3em;
 }
