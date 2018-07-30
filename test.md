@@ -7,6 +7,10 @@ class: center, middle, inverse
 
 .footnote[Ian Mouzon <br> Department of Statistics <br> Iowa State University <br> The speech is on GitHub at [imouzon/jsm2018](https://github.com/imouzon/jsm2018)]
 ---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
 # My Experiences 
 ## with
 # Big Data Competitions
@@ -50,17 +54,53 @@ layout: false
 ## What I Learned by Competing
 Regardless of how the team ultimately did, I always got something out of it
 
-By participating in competitions, I was able to:
-
-- I learned a lot about working with a team:
-  - Work with people on all sides of my skill set (multivariate)
-  - The importance of staying motivated 
-
-- Become better I learned a lot about working with real data (starting with huge zip files, creating features, etc)
+- I got comfortable working with real data
+  - Feature engineering: taking complicated relationships in the data and getting them into a model
+  - Finding ways to compromise between the model you want and the data you have
 
 - Gain experience on the **_statistical pipeline_** instead of the **_statistical smokestack_**
   - building and maintaining databases
   - writing code that other people can read and use (i.e., version control)
+
+- I learned a lot about working with a team:
+  - Work with people on all sides of my skill set (multivariate)
+  - The importance of staying motivated 
+]
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# But Why Compete?
+
+
+---
+background-image: url(./figs/saving-private-money2.jpg)
+# Why not just go to the library?
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problems
+]
+.right-column[
+
+## The Problems Are Hard to Solve
+<center style='height: 200px; overflow: hidden;'>
+   <img src="./figs/get-frustrated.jpg" alt="ouch" height="180">
+</center>
+
+These competitions provide a great opportunity to develop new ideas.
+
+- In a lot of cases capable, intelligent, hard-working people weren't able to see a clear way through.
+
+- If it was just a matter of tuning some stock model, it wouldn't be a competition
+
+- Any good solution is going to have to be based, at least in part, on the creative ideas that result from frustration.
+
 ]
 
 
@@ -68,15 +108,31 @@ By participating in competitions, I was able to:
 layout: false
 .left-column[
   ## Experiences
-  ### Motivation
-  ### What I Learned
-  ### Why Compete?
+  ## Opportunities
+  ### Open Problems
+  ### Open Environment
 ]
 .right-column[
-## The Perfect Test Environment
-- These competitions provide a great opportunity to test ideas
-- They attract a competitors from a wide range of academic and professional backgrounds
-- Here's they key: they end. It's not your thesis, it's not your job, you aren't stuck
+
+## The Field of Competitors is Open
+There are things 
+
+### An Opportunity to Get Out of A Bubble
+Because the solution isn't obvious, it may force you to do something you wouldn't normally do
+- They attract competitors from a wide range of academic and professional backgrounds
+]
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problems
+  ### Open Environment
+]
+.right-column[
+- Here's they key: they end. It's not your thesis, it's not your job, you aren't stuck with it
 
 ## You Get What You Need
 - Practice, practice, practice

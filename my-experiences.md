@@ -1,3 +1,7 @@
+name: inverse
+layout: true
+class: center, middle, inverse
+---
 # My Experiences 
 ## with
 # Big Data Competitions

@@ -1,17 +1,68 @@
-# Why Compete?
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# But Why Compete?
+
+
+---
+background-image: url(./figs/saving-private-money2.jpg)
+# Why not just go to the library?
 
 
 ---
 layout: false
 .left-column[
   ## Experiences
-  ## Why Compete?
+  ## Opportunities
+  ### Open Problems
 ]
 .right-column[
 
-## A Perfect Test Environment
-- These competitions provide a great opportunity to test ideas
+## The Problems Are Hard to Solve
+<center style='height: 200px; overflow: hidden;'>
+   <img src="./figs/get-frustrated.jpg" alt="ouch" height="180">
+</center>
+
+These competitions provide a great opportunity to develop new ideas.
+
+- In a lot of cases capable, intelligent, hard-working people weren't able to see a clear way through.
+
+- If it was just a matter of tuning some stock model, it wouldn't be a competition
+
+- Any good solution is going to have to be based, at least in part, on the creative ideas that result from frustration.
+
+]
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problems
+  ### Open Environment
+]
+.right-column[
+
+## The Field of Competitors is Open
+There are things 
+
+### An Opportunity to Get Out of A Bubble
+Because the solution isn't obvious, it may force you to do something you wouldn't normally do
 - They attract competitors from a wide range of academic and professional backgrounds
+]
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problems
+  ### Open Environment
+]
+.right-column[
 - Here's they key: they end. It's not your thesis, it's not your job, you aren't stuck with it
 
 ## You Get What You Need
