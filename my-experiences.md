@@ -10,8 +10,8 @@ class: center, middle, inverse
 
 layout: false
 .left-column[
-  ## Experiences
-  ### Motivation
+## Experiences
+### My Motivation
 ]
 .right-column[
 
@@ -38,7 +38,7 @@ layout: false
 layout: false
 .left-column[
 ## Experiences
-### Motivation
+### My Motivation
 ### What I Learned
 ]
 .right-column[

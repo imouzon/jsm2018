@@ -9,4 +9,6 @@ build:
 	cat my-experiences.md >> test.md
 	echo '---' >> test.md
 	cat why-compete.md >> test.md
+	echo '---' >> test.md
+	cat basic-tips.md >> test.md
 

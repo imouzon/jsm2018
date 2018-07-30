@@ -15,13 +15,13 @@ layout: false
 .left-column[
   ## Experiences
   ## Opportunities
-  ### Open Problems
+  ### Open Problem
 ]
 .right-column[
 
 ## The Problems Are Hard to Solve
-<center style='height: 200px; overflow: hidden;'>
-   <img src="./figs/get-frustrated.jpg" alt="ouch" height="180">
+<center style='height: 180px; margin: 10px 0px 10px 0px; overflow: hidden;'>
+   <img src="./figs/get-frustrated.jpg" alt="ouch" width="560">
 </center>
 
 These competitions provide a great opportunity to develop new ideas.
@@ -40,49 +40,15 @@ layout: false
 .left-column[
   ## Experiences
   ## Opportunities
-  ### Open Problems
-  ### Open Environment
+  ### Open Problem
 ]
 .right-column[
 
-## The Field of Competitors is Open
-There are things 
+## The Problems Are Hard Because of the Data
+<center style='height: 180px; margin: 10px 0px 10px 0px; overflow: hidden;'>
+   <img src="./figs/get-frustrated.jpg" alt="ouch" width="560">
+</center>
 
-### An Opportunity to Get Out of A Bubble
-Because the solution isn't obvious, it may force you to do something you wouldn't normally do
-- They attract competitors from a wide range of academic and professional backgrounds
-]
-
-
----
-layout: false
-.left-column[
-  ## Experiences
-  ## Opportunities
-  ### Open Problems
-  ### Open Environment
-]
-.right-column[
-- Here's they key: they end. It's not your thesis, it's not your job, you aren't stuck with it
-
-## You Get What You Need
-- Practice, practice, practice
-If you want to get better at something 
-It's What You WantYou Have a Chance
-of test environment 
-
-types of competitions and I think it's because dIt's possible that no matter what I did
-
-And here's The key takeaway is that I got this 
-
-**
-got a lot of information about math skThe competitions gave me a chance to learn things I wouldn't have learned in norma situations
-- Software skills for instance
-- 
-
-** 
-Data mining competitions create a unique opportunity 
-`
 ** You are working with real data **
 
 -  Has the data been processed and homogenized? Variables stripped of meaning? That's awful! It's also real.
@@ -91,7 +57,60 @@ Data mining competitions create a unique opportunity
 
 -  Is the data awkward to work with? Is it levels beyond "big", strangely structured? (shh, that's real).
 
-** You are working on a real problem **
-
--  Somebody, somewhere decided the best way to answer whatever question is posed by the competition is (believe it or not) to make a bunch of people compete with each other
 ]
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problem
+  ### Open Field
+]
+.right-column[
+
+## The Field of Competitors is Diverse
+<center style='height: 180px; margin: 10px 0px 10px 0px; overflow: hidden;'>
+   <img src="./figs/get-exposed.jpg" alt="competition" width="560">
+</center>
+
+The competitions attract people a wide range of academic and professional backgrounds
+
+- CS people do _really_ well in these competitions - there's something to learn from that.
+
+- People with backgrounds in math fields (i.e., cryptology) or physics, too.
+
+- You get to learn a lot about what these people do _outside_ of a text book seeing their solutions.
+]
+???
+This is good if you are competitive - you actually have competition and you don't create a toxic environment by competing with your friends/classmates/coworkers
+
+
+---
+layout: false
+.left-column[
+  ## Experiences
+  ## Opportunities
+  ### Open Problem
+  ### Open Field
+  ### Closed Period 
+]
+.right-column[
+
+## Competitions End
+<center style='height: 180px; margin: 10px 0px 10px 0px; overflow: hidden;'>
+   <img src="./figs/get-finished.jpg" alt="competition" width="560">
+</center>
+
+Ultimately you win or lose and it's over. It's something that you get to let go of.
+
+- It's not your research, it's not your thesis, it's not your job, you aren't stuck with it
+
+- Your level of commitment to solving the problem can't extend beyond the deadline. Either you find the best solution or someone else does.
+
+- The things you take away from the competition are yours to keep forever. 
+]
+
+???
+Not many opportunities to care deeply about something and then let go of it
