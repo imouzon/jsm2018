@@ -24,21 +24,18 @@ layout: false
 ]
 .right-column[
 
-## Why I Started
+## How I Got Started
 
 <center style='height: 140px; overflow: hidden;'>
    <img src="./figs/asobi-asobase-exam.jpg" alt="eigo" height="300" >
 </center>
 
 ** I Was Taking Two "Big Data" Courses in the Same Semester **
-- Took two data mining courses during the same semester, hallucinated that I was failing
 - My professors encouraged participation
 - The team I joined that semester came in 5th Place in the Data Mining Cup 
 
 ## Why I Kept At It
 - **Positive Reinforcement**: Spiral up
-- The next year, our schools team won the Data Mining Cup
-- We came in second and third place the year I was the captain
 - Eventually participated in about a dozen competitions over the next 3 years
 ]
 
@@ -62,9 +59,8 @@ Regardless of how the team ultimately did, I always got something out of it
   - building and maintaining databases
   - writing code that other people can read and use (i.e., version control)
 
-- I learned a lot about working with a team:
-  - Work with people on all sides of my skill set (multivariate)
-  - The importance of staying motivated 
+- I learned a lot about working with a team
+  - Work with people on all sides of my skill set
 ]
 ---
 name: inverse
@@ -413,31 +409,82 @@ If you have an idea but aren't sure how to implement it:
 
 
 ---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# Timeline
+## How the Competition Progresses
+
+
+---
 layout: false
 .left-column[
 ## Basic Tips
-### Meetings
-### Raw Data
-### Time Panic
-### Task Assignment
-### Timeline
+## Timeline
 ]
 .right-column[
 ### The Early Game
--  Exploring the data
--  Comprehending the fundamental challenges
--  Getting a sense of the structure 
--  Simple predictions
+- Exploring the data
+- Comprehending the fundamental challenges
+- Getting a sense of the structure 
+- Simple predictions
 
 ### The Middle Game
--  Building a feature matrix
--  First steps in prediction
+- Building a feature matrix
+- First steps in prediction
 
 ### The Late Game
--  Better predictions
--  Combining predictions
+- Better predictions
+- Combining predictions
 
 ]
 
 
+---
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# Conclusion
+
+---
+name: inverse
+layout: true
+class: middle, inverse
+---
+# Conclusion
+
+## Data mining/Big Data competitions are uniquely rewarding
+
+- They provide an opportunity to learn a set of experiences that are hard to find elsewhere
+
+- They require no long term commitment but you might develop some skills or habits that persist (forever)
+
+- Constraints and difficulty force creativity in multiple areas
+
+---
+# Conclusion
+
+## The nature of the competitions reward specific habits
+
+- Frequent meetings keep people in the loop as the competition progresses/changes
+
+- Early focus should be on getting everyone working as close to the raw data as is feasible
+
+- Keep an eye on the deadline, but don't let it lead you to block creative ideas
+
+- Keep the team as flat as possible, outside of organizational tasks, for most of the competition.
+
+- If you have a strong solution as the deadline looms, flip things over: everyone falls in line and does whatever the team leader says 
+---
+
+
+name: inverse
+layout: true
+class: center, middle, inverse
+---
+# Thank You Very Much
+## Any Questions or Feedback?
+### imouzon@iastate.edu
 

@@ -15,21 +15,18 @@ layout: false
 ]
 .right-column[
 
-## Why I Started
+## How I Got Started
 
 <center style='height: 140px; overflow: hidden;'>
    <img src="./figs/asobi-asobase-exam.jpg" alt="eigo" height="300" >
 </center>
 
 ** I Was Taking Two "Big Data" Courses in the Same Semester **
-- Took two data mining courses during the same semester, hallucinated that I was failing
 - My professors encouraged participation
 - The team I joined that semester came in 5th Place in the Data Mining Cup 
 
 ## Why I Kept At It
 - **Positive Reinforcement**: Spiral up
-- The next year, our schools team won the Data Mining Cup
-- We came in second and third place the year I was the captain
 - Eventually participated in about a dozen competitions over the next 3 years
 ]
 
@@ -53,7 +50,6 @@ Regardless of how the team ultimately did, I always got something out of it
   - building and maintaining databases
   - writing code that other people can read and use (i.e., version control)
 
-- I learned a lot about working with a team:
-  - Work with people on all sides of my skill set (multivariate)
-  - The importance of staying motivated 
+- I learned a lot about working with a team
+  - Work with people on all sides of my skill set
 ]

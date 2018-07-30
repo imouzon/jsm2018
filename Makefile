@@ -11,4 +11,8 @@ build:
 	cat why-compete.md >> test.md
 	echo '---' >> test.md
 	cat basic-tips.md >> test.md
+	echo '---' >> test.md
+	cat timeline.md >> test.md
+	echo '---' >> test.md
+	cat closing.md >> test.md
 
